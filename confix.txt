@@ -1,2 +1,0 @@
-user_name = Teodor Sharkov
-project_size = 100
